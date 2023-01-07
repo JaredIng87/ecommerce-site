@@ -9,6 +9,8 @@
   3. [Contributing](#contributing)
   4. [Tests](#tests)
   5. [Liscense](#liscense)
+  6. [Authour](#author)
+  7. [Links](#links)
   
   ## Installation
   
@@ -29,4 +31,17 @@
   ## License
   
   n/a
+
+  ## Author
+
+  Jared Ingersoll-student
+  email: jaredingersoll14@gmail.com
+  github: github.com/jaredi87
+
+  ## Links
+
+  github repo: https://github.com/JaredIng87/ecommerce-site
+  usage video: https://drive.google.com/file/d/1aop7kZ7TiiJucVvfzL9oE83_a5mTN1jm/view
+
+
 
